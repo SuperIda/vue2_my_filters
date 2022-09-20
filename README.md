@@ -1,24 +1,2 @@
-# filters
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+把常用到的过滤器搜集起来, 方便后续使用.
+全局自动注册, 页面中可以直接使用
